@@ -10,7 +10,7 @@
 <a href="https://github.com/Pseudo-Lab/10th-template/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/10th-template" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Pseudo-Lab/10th-template/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/10th-template" alt="Issues Badge"/></a>
 <a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/10th-template?color=2b9348"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpseudo-lab%2F10th-template&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/CausalInferenceLab/causal-inference-with-causalML&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 <br>
 
@@ -22,8 +22,8 @@
 > 인과추론을 곁들인 분석을 통해 유의미한 결과를 함께 고민하고 만들어봐요
 
 <figure class="half">  
-    <a href="https://product.kyobobook.co.kr/detail/S000212577153"><img src = "/src/book_img.jpg" width="150" height="150" ></a> 
-    <a href="https://github.com/uber/causalml"><img src = "/src/causalml_logo.png" width="300" height="100"></a>
+    <a href="https://product.kyobobook.co.kr/detail/S000212577153"><img src = "/src/book_img.jpg" width="300" height="300" ></a> 
+    <a href="https://github.com/uber/causalml"><img src = "/src/causalml_logo.png" width="400" height="150"></a>
 </figure>
 
 
