@@ -37,6 +37,12 @@ _"인과추론 이론에서 CausalML 코드까지 !! "_
 - 이론에서 그치지 않고 코드작성으로 살아있는 지식 만들기
 - "인과추론 그거 해봤어? 난 해봤어!" 라고 당당하게 말하기
 
+예정된 스터디를 마치고 나면, 실무 적용 사례들을 확인하고 팀원 분들의 업계에 적용을 함께 고민해봐요
+
+**국내 및 해외 인과추론 실무 적용 사례** [Link](https://github.com/CausalInferenceLab/Experimentation-platform-materials)
+
+이번 10기 최종 목표는 실무 사례를 1건 더 추가하는 거예요!!
+
 ## 진행 방향
 - 매주 일요일 저녁 8시 [실무로 통하는 인과추론](https://product.kyobobook.co.kr/detail/S000212577153) 책을 통해 이론을 공부합니다.
 - 1주가 지나면, 지난주차 이론을 [causalML](https://github.com/uber/causalml) 코드로 다시 한번 복습합니다.
@@ -70,6 +76,7 @@ _"인과추론 이론에서 CausalML 코드까지 !! "_
 | Week 8 | 2025/05/04 |  Part 5.통제집단 합성법 | 미정 | 
 | Week 9 | 2025/05/11 |  Part 5.대안적 실험설계 | 미정 | 
 | Week 10 | 2025/05/17 |  가짜연구소 Pseudo 콘서트| - | 
+
 
 
 
