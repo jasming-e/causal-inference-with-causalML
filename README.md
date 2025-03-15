@@ -55,12 +55,12 @@ _"인과추론 이론에서 CausalML 코드까지 !! "_
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
 | **Project Manager** | 박이삭 | [Linkedin](https://www.linkedin.com/in/%EC%9D%B4%EC%82%AD-%EB%B0%95-75a7a916a/) | 인과추론              |
 | **Member** | 신진수 | [Linkedin](https://www.linkedin.com/in/jinsoo-shin-436060162/) | 인과추론                  |
-| **Member** | 강지민 |  | 인과추론                  |
-| **Member** | 김소희 |  | 인과추론                  |
-| **Member** | 김시은 |  | 인과추론                  |
-| **Member** | 김용민 |  | 인과추론                  |
+| **Member** | 강지민 | [Linkedin](https://www.linkedin.com/in/jiminkangda/) | 인과추론                  |
+| **Member** | 김소희 | [Linkedin](https://www.linkedin.com/in/sohee-kim-9460b6113/)  | 인과추론                  |
+| **Member** | 김시은 | [Linkedin](https://www.linkedin.com/in/%EC%8B%9C%EC%9D%80-%EA%B9%80-4a9bb6206/) | 인과추론                  |
+| **Member** | 김용민 | [Linkedin](https://www.linkedin.com/in/kimyongmin/) | 인과추론                  |
 | **Member** | 김정현 |  | 인과추론                  |
-| **Member** | 여홍수 |  | 인과추론                  |
+| **Member** | 여홍수 |  [Linkedin](https://www.linkedin.com/in/hongsu-yea-457b33319/)  | 인과추론                  |
 
 
 
