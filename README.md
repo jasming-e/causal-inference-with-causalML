@@ -59,7 +59,7 @@ _"인과추론 이론에서 CausalML 코드까지 !! "_
 | **Member** | 김소희 | [Linkedin](https://www.linkedin.com/in/sohee-kim-9460b6113/)  | 인과추론                  |
 | **Member** | 김시은 | [Linkedin](https://www.linkedin.com/in/%EC%8B%9C%EC%9D%80-%EA%B9%80-4a9bb6206/) | 인과추론                  |
 | **Member** | 김용민 | [Linkedin](https://www.linkedin.com/in/kimyongmin/) | 인과추론                  |
-| **Member** | 김정현 |  | 인과추론                  |
+| **Member** | 김정현 | [Linkedin](https://www.linkedin.com/in/%EC%A0%95%ED%98%84-%EA%B9%80-883a442b2/) | 인과추론                  |
 | **Member** | 여홍수 |  [Linkedin](https://www.linkedin.com/in/hongsu-yea-457b33319/)  | 인과추론                  |
 
 
